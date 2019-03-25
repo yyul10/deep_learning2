@@ -1,7 +1,7 @@
 # Deep Learning 2 : RNN, LSTM, GAN
 
 * Implement the forward and backward passes as well as the neural network training procedure for Recurrent Neural Networks (RNNs)
-* Learn the basic concepts of language modeling and how to apply RNNs
+* Basic concepts of language modeling and apply RNNs
 * Implement popular generative model, Generative Adversarial Networks (GANs)
 
 ```
